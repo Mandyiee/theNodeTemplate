@@ -1,5 +1,5 @@
 # theNodeTemplatee
-theNodeTemplate is an npm package published on npmjs.com. It could on the command line using yeoman generator.
+theNodeTemplate is an npm package published on npmjs.com. It could run on the command line using yeoman generator.
 
 To using this package
 `npm install -g yo`
